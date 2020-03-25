@@ -1,4 +1,7 @@
 # IMDB
+| SQLite3|
+|--|
+
 SQLite database that stores data from IMDb 
 
 ## UnderStanding
